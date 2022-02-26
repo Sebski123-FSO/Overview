@@ -1,0 +1,33 @@
+[submodule ".\\Part_1\\courseinfo"]
+	path = .\\Part_1\\courseinfo
+	url = https://github.com/Sebski123-FSO/courseinfo
+[submodule ".\\Part_1\\unicafe"]
+	path = .\\Part_1\\unicafe
+	url = https://github.com/Sebski123-FSO/unicafe
+[submodule ".\\Part_2\\courseinfo"]
+	path = .\\Part_2\\courseinfo
+	url = https://github.com/Sebski123-FSO/courseinfo
+[submodule ".\\Part_2\\phonebook"]
+	path = .\\Part_2\\phonebook
+	url = https://github.com/Sebski123-FSO/phonebook_p2
+[submodule ".\\Part_2\\countries"]
+	path = .\\Part_2\\countries
+	url = https://github.com/Sebski123-FSO/countries
+[submodule ".\\Part_3\\phonebook_backend"]
+	path = .\\Part_3\\phonebook_backend
+	url = https://github.com/Sebski123-FSO/phonebook_backend
+[submodule ".\\Part_3\\phonebook"]
+	path = .\\Part_3\\phonebook
+	url = https://github.com/Sebski123-FSO/phonebook_p2
+[submodule ".\\Part_4\\blog_list"]
+	path = .\\Part_4\\blog_list
+	url = https://github.com/Sebski123-FSO/blog-list
+[submodule ".\\Part_5\\bloglist_frontend"]
+	path = .\\Part_5\\bloglist_frontend
+	url = https://github.com/Sebski123-FSO/bloglist-frontend
+[submodule ".\\Part_6\\unicafe_redux"]
+	path = .\\Part_6\\unicafe_redux
+	url = https://github.com/Sebski123-FSO/unicafe-redux
+[submodule ".\\Part_6\\redux_anecdotes"]
+	path = .\\Part_6\\redux_anecdotes
+	url = https://github.com/Sebski123-FSO/redux-anecdotes
