@@ -49,3 +49,6 @@
 [submodule ".\\Part_2\\notes"]
 	path = Part_2/notes
 	url = https://github.com/Sebski123-FSO/notes_p2
+[submodule ".\\Part_7\\routed_anecdotes"]
+	path = .\\Part_7\\routed_anecdotes
+	url = https://github.com/Sebski123-FSO/routed-anecdotes
