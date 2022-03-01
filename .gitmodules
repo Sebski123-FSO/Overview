@@ -52,3 +52,6 @@
 [submodule ".\\Part_7\\routed_anecdotes"]
 	path = .\\Part_7\\routed_anecdotes
 	url = https://github.com/Sebski123-FSO/routed-anecdotes
+[submodule ".\\Part_7\\router_app"]
+	path = .\\Part_7\\router_app
+	url = https://github.com/Sebski123-FSO/router-app
