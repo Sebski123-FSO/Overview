@@ -67,3 +67,9 @@
 [submodule ".\\Part_7\\ultimate_hooks"]
 	path = .\\Part_7\\ultimate_hooks
 	url = https://github.com/Sebski123-FSO/ultimate-hooks
+[submodule ".\\Part_7\\webpack"]
+	path = .\\Part_7\\webpack
+	url = https://github.com/Sebski123-FSO/webpack
+[submodule ".\\Part_7\\class_anecdotes"]
+	path = .\\Part_7\\class_anecdotes
+	url = https://github.com/Sebski123-FSO/class-anecdotes
